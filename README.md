@@ -644,4 +644,4 @@ The below table lists the questions asked in the survey and the column under whi
 
 ## Stretch Goals
 
-- [ ] Create Dashboard in Google Looker or Tableau
+- Create Dashboard in Google Looker or Tableau
